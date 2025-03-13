@@ -1,7 +1,7 @@
 # TIC-TAC-TOE
 
-##🎮 El proyecto
-Desarrollo del juego conocido como *TicTacToe* o en castellano Tres en Raya, donde existen 2 jugadores (X - O). El juego se juega en una cuadrícula de 3x3 y 
+## 🎮 El proyecto
+- Desarrollo del juego conocido como *TicTacToe* o en castellano Tres en Raya, donde existen 2 jugadores (X - O). El juego se juega en una cuadrícula de 3x3 y 
 el jugador X lo empieza. Un jugador gana si consigue tres X o tres O en línea vertical, horizontal o diagonal. Si se acaban los espacios del tablero y no se consiguen las líneas, se considera un empate. 
 Al final se indica que jugador ganó o si ha sido un empate.
 
